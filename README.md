@@ -1,4 +1,10 @@
-## Hello! I'am Vanessa Margareth. I'm front end developer
+ ☺Hello, welcome to my profile! 
+ 
+<h1>I'am Vanessa Margareth.</h1>
+
+I'm front end developer
+
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/rhO8P8q.png">
 
 <!-- Other box's themes https://github.com/anuraghazra/github-readme-stats -->
 <!-- windows + . you can put an icon in the html-->
@@ -16,7 +22,7 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/rhO8P8q.png">
+  
 </div>
 
 <!-- une lime -->
