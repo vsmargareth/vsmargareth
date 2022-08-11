@@ -1,8 +1,8 @@
 ## Hello! I'am Vanessa Margareth. I'm front end developer
 
 <!-- Other box's themes https://github.com/anuraghazra/github-readme-stats -->
-<!-- windows + . you can out an icon in the html-->
-<div align="center">
+<!-- windows + . you can put an icon in the html-->
+<div align="right" display="flex">
   <a href="https://github.com/vsmargareth">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vsmargareth&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsmargareth&layout=compact&langs_count=7&theme=noctis_minimus"/>
